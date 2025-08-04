@@ -62,7 +62,12 @@ court-scraper/
 ├── requirements.txt
 ├── README.md
 ```
+### 📽 Demo Video
 
+Watch the demo of this task:  
+▶️ [Watch on Google Drive](https://drive.google.com/file/d/1x7aoE5ztMUJ2KVMpg0fbqlWhvPE3Ft3p/view?usp=sharing)
+
+*(CAPTCHA solving + automation shown step-by-step)*
 ## 🧠 Notes
 
 - Works with valid CNR only (e.g., from Haryana courts)
